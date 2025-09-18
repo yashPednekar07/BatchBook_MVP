@@ -6,6 +6,11 @@ BatchBook is a **student-first social platform** designed to make peer-to-peer i
 The MVP was built using a low-code approach and launched as a prototype, gaining strong early traction with **150+ signups within the first 3 hours**.  
 
 ---
+## Checkout website MVP and final Product 
+https://mybatchbook.softr.app
+
+## final product
+https://mybatchbook.lovable.app
 
 ## Vision
 To create a global platform for students to connect, share, and collaborate — starting with lightweight interactions like streaks, quick photo sharing, and notes, and scaling toward a full-fledged app with streak-based engagement and community-first features.  
